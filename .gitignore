@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+./.DS_Store
 
 # Test binary, built with 'go test -c'
 *.test
@@ -17,3 +18,5 @@ bin/
 
 # Go workspace file
 go.work
+.DS_Store
+**/.DS_Store
